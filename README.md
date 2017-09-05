@@ -20,7 +20,6 @@ ssh carnd@ec2-34-253-222-144.eu-west-1.compute.amazonaws.com
 ```
 sudo apt-get update
 ```
-
 1. Install everything we need (cmake, swig, etc.)
 ```
 sudo apt-get install -y python-numpy python-dev cmake zlib1g-dev libjpeg-dev xvfb libav-tools xorg-dev python-opengl libboost-all-dev libsdl2-dev swig
